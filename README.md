@@ -1,7 +1,7 @@
 # Image-Publisher-ROS-2
 Image Publisher with ROS-2 and OpenCV C++
 
-Loads an image penguin.png
+Loads an image penguin.png  
 
 Used ros2topic hz and ros2topic bw to verify, also saw the image load up in Rviz without any problems.
 
@@ -13,10 +13,10 @@ Used ros2topic hz and ros2topic bw to verify, also saw the image load up in Rviz
 
 Clone the repository on your local machine    
 ```
-git clone   
+git clone https://github.com/akshatowl/Image-Publisher-ROS-2.git   
 ``` 
-If ROS-2 is built from source, clone this inside the src folder of the ROS-2 root folder.  
-Make sure to build the new dependencies using colcon.
+If ROS-2 is built from source, clone this inside the src folder of the ROS-2 folder.    
+Make sure to build the new dependencies using colcon before running.
 
 Running the node  
 
